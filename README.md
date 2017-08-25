@@ -23,3 +23,5 @@ Linux 的生态渐渐地“火”了起来，所以我必然关注
 我也很想听听你的想法，我希望我们能够将这种活动进行下，为中国更多的IT人服务。
 
 QQ群：59151639
+
+![qrcode_qq](https://github.com/Lispre/Linux-Backend-World/blob/master/1503666729190.png)
